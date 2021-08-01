@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicobraun93&label=Profile%20views&color=0e75b6&style=flat" alt="nicobraun93" /> </p>
 
+- 🔭 I’m currently working as **Data Engineer**
+
+- 🌱 I have a Master of Science in **Bioscience**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/-nico-braun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-nico-braun" height="30" width="40" /></a>
