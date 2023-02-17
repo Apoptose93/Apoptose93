@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicobraun93&label=Profile%20views&color=0e75b6&style=flat" alt="nicobraun93" /> </p>
 
-- 🔭 I’m currently working as **Data Engineer**
+- 🔭 I’m currently working as **Data Scientist / Data Engineer / Azure Cloud Consultant**
 
 - 🌱 I have a Master of Science in **Bioscience**
 
